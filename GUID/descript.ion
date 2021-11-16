@@ -1,0 +1,4 @@
+makeguid.prg Возвращает GUID c извлекаемой датой/временем создания
+makeguid_2.prg Возвращает GUID c извлекаемой датой создания
+guid.vcx -//- что и в MakeGUID.prg, но в виде библиотеки
+guid.VCT -//- что и в MakeGUID.prg, но в виде библиотеки

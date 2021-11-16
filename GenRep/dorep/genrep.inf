@@ -1,0 +1,37 @@
+
+[Version]
+Signature = "$CHICAGO$"
+  
+[DefaultInstall] 
+CopyFiles  = CopyFiles.DLL 
+AddReg     = AddReg.WIN 
+MediaType  = Software 
+  
+[DefaultInstall.NT] 
+CopyFiles  = CopyFiles.DLL 
+AddReg     = AddReg.WIN 
+MediaType  = Software 
+  
+[DestinationDirs] 
+CopyFiles.DLL        = 11  
+DefaultDestDir       = 11  
+  
+[AddReg.WIN] 
+HKCR, ".sab",,,"GenRep"
+HKCR, "GenRep",,,"Шаблон отчета в Rich Text Format"
+HKCR, "GenRep\DefaultIcon",,,"%11%\genrep.dll,0"
+HKLM, "Software\GenRep\IsPath",,,"1"
+HKCR, ".sp",,,"Spbux"
+HKCR, "Spbux",,,"Файл данных интерпритатора"
+HKCR, "Spbux\DefaultIcon",,,"%11%\genrep.dll,2"
+  
+[SourceDisksNames] 
+1 = "Gen Report DLL library installer",, 1
+  
+[SourceDisksFiles] 
+genrep.dll = 1 
+  
+[CopyFiles.DLL] 
+genrep.dll,,,33 
+  
+[Strings] 

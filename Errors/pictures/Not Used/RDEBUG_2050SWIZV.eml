@@ -1,0 +1,294 @@
+To: Bugfull Application Support Team <spam-me-please@spamserver.com>
+Subject: Some Bugfull Application Error Report
+X-Priority: 2 (High)
+X-Unsent: 1
+Content-Type: text/plain; charset=windows-1251
+
+Executable: C:\Program Files\Microsoft Visual FoxPro 9\vfp9.exe
+Version: 9.0.00.3504
+
+*** ERROR INFORMATION ***
+2061 Index or expression does not match an existing member of the collection.
+3) 00000001: Неверная функция
+
+*** CALL STACK ***
+(not avaliable)
+
+*** DISPLAY MEMORY ***
+ERR_OTEMP   Priv   O  ERR_GENERATORTEMPDATA  genreport
+ERR_CCMD    Local  C  "MEMORY"  err_adddisplayfile
+    2 variables defined,    13 bytes used
+16382 variables available
+
+Print System Memory Variables
+
+_ALIGNMENT  Priv   C  "LEFT"  genreport
+_ALIGNMENT  (hid)  C  "LEFT"
+_ASCIICOLS  Priv   N  80          (        80.00000000)  genreport
+_ASCIICOLS  (hid)  N  80          (        80.00000000)
+_ASCIIROWS  Priv   N  63          (        63.00000000)  genreport
+_ASCIIROWS  (hid)  N  63          (        63.00000000)
+_ASSIST     Priv   C  ""  genreport
+_ASSIST     (hid)  C  ""
+_BEAUTIFY   Priv   C  "C:\PROGRAM FILES\MICROSOFT VISUAL FOXPRO 9\BE
+                      AUTIFY.APP"  genreport
+_BEAUTIFY   (hid)  C  "C:\PROGRAM FILES\MICROSOFT VISUAL FOXPRO 9\BE
+                      AUTIFY.APP"
+_BOX        Priv   L  .T.  genreport
+_BOX        (hid)  L  .T.
+_BROWSER    Priv   C  "C:\PROGRAM FILES\MICROSOFT VISUAL FOXPRO 9\BR
+                      OWSER.APP"  genreport
+_BROWSER    (hid)  C  "C:\PROGRAM FILES\MICROSOFT VISUAL FOXPRO 9\BR
+                      OWSER.APP"
+_BUILDER    Priv   C  "C:\PROGRAM FILES\MICROSOFT VISUAL FOXPRO 9\BU
+                      ILDER.APP"  genreport
+_BUILDER    (hid)  C  "C:\PROGRAM FILES\MICROSOFT VISUAL FOXPRO 9\BU
+                      ILDER.APP"
+_CALCMEM    Priv   N  0.00        (         0.00000000)  genreport
+_CALCMEM    (hid)  N  0.00        (         0.00000000)
+_CALCVALUE  Priv   N  0.00        (         0.00000000)  genreport
+_CALCVALUE  (hid)  N  0.00        (         0.00000000)
+_CODESENSE  Priv   C  "C:\PROGRAM FILES\MICROSOFT VISUAL FOXPRO 9\FO
+                      XCODE.APP"  genreport
+_CODESENSE  (hid)  C  "C:\PROGRAM FILES\MICROSOFT VISUAL FOXPRO 9\FO
+                      XCODE.APP"
+_CONVERTER  Priv   C  "C:\PROGRAM FILES\MICROSOFT VISUAL FOXPRO 9\CO
+                      NVERT.APP"  genreport
+_CONVERTER  (hid)  C  "C:\PROGRAM FILES\MICROSOFT VISUAL FOXPRO 9\CO
+                      NVERT.APP"
+_COVERAGE   Priv   C  "C:\PROGRAM FILES\MICROSOFT VISUAL FOXPRO 9\CO
+                      VERAGE.APP"  genreport
+_COVERAGE   (hid)  C  "C:\PROGRAM FILES\MICROSOFT VISUAL FOXPRO 9\CO
+                      VERAGE.APP"
+_CUROBJ     Priv   N  -1          (        -1.00000000)  genreport
+_CUROBJ     (hid)  N  -1          (        -1.00000000)
+_DBLCLICK   Priv   N  0.50        (         0.50000000)  genreport
+_DBLCLICK   (hid)  N  0.50        (         0.50000000)
+_DIARYDATE  Priv   D  01/28/07  genreport
+_DIARYDATE  (hid)  D  01/28/07
+_DOS        Priv   L  .F.  genreport
+_DOS        (hid)  L  .F.
+_FOXCODE    Priv   C  "C:\DOCUMENTS AND SETTINGS\JOKER\APPLICATION D
+                      ATA\MICROSOFT\VISUAL FOXPRO 9\FOXCODE.DBF"  genreport
+_FOXCODE    (hid)  C  "C:\DOCUMENTS AND SETTINGS\JOKER\APPLICATION D
+                      ATA\MICROSOFT\VISUAL FOXPRO 9\FOXCODE.DBF"
+_FOXDOC     Priv   C  ""  genreport
+_FOXDOC     (hid)  C  ""
+_FOXGRAPH   Priv   C  ""  genreport
+_FOXGRAPH   (hid)  C  ""
+_FOXREF     Priv   C  "C:\PROGRAM FILES\MICROSOFT VISUAL FOXPRO 9\FO
+                      XREF.APP"  genreport
+_FOXREF     (hid)  C  "C:\PROGRAM FILES\MICROSOFT VISUAL FOXPRO 9\FO
+                      XREF.APP"
+_FOXTASK    Priv   C  "C:\DOCUMENTS AND SETTINGS\JOKER\APPLICATION D
+                      ATA\MICROSOFT\VISUAL FOXPRO 9\FOXTASK.DBF"  genreport
+_FOXTASK    (hid)  C  "C:\DOCUMENTS AND SETTINGS\JOKER\APPLICATION D
+                      ATA\MICROSOFT\VISUAL FOXPRO 9\FOXTASK.DBF"
+_GALLERY    Priv   C  "C:\PROGRAM FILES\MICROSOFT VISUAL FOXPRO 9\GA
+                      LLERY.APP"  genreport
+_GALLERY    (hid)  C  "C:\PROGRAM FILES\MICROSOFT VISUAL FOXPRO 9\GA
+                      LLERY.APP"
+_GENGRAPH   Priv   C  ""  genreport
+_GENGRAPH   (hid)  C  ""
+_GENHTML    Priv   C  "C:\PROGRAM FILES\MICROSOFT VISUAL FOXPRO 9\GE
+                      NHTML.PRG"  genreport
+_GENHTML    (hid)  C  "C:\PROGRAM FILES\MICROSOFT VISUAL FOXPRO 9\GE
+                      NHTML.PRG"
+_GENMENU    Priv   C  "C:\PROGRAM FILES\MICROSOFT VISUAL FOXPRO 9\GE
+                      NMENU.PRG"  genreport
+_GENMENU    (hid)  C  "C:\PROGRAM FILES\MICROSOFT VISUAL FOXPRO 9\GE
+                      NMENU.PRG"
+_GENPD      Priv   C  ""  genreport
+_GENPD      (hid)  C  ""
+_GENSCRN    Priv   C  ""  genreport
+_GENSCRN    (hid)  C  ""
+_GENXTAB    Priv   C  "C:\PROGRAM FILES\MICROSOFT VISUAL FOXPRO 9\VF
+                      PXTAB.PRG"  genreport
+_GENXTAB    (hid)  C  "C:\PROGRAM FILES\MICROSOFT VISUAL FOXPRO 9\VF
+                      PXTAB.PRG"
+_GETEXPR    Priv   C  ""  genreport
+_GETEXPR    (hid)  C  ""
+_INCLUDE    Priv   C  ""  genreport
+_INCLUDE    (hid)  C  ""
+_INCSEEK    Priv   N  0.50        (         0.50000000)  genreport
+_INCSEEK    (hid)  N  0.50        (         0.50000000)
+_INDENT     Priv   N  0           (         0.00000000)  genreport
+_INDENT     (hid)  N  0           (         0.00000000)
+_LMARGIN    Priv   N  0           (         0.00000000)  genreport
+_LMARGIN    (hid)  N  0           (         0.00000000)
+_MAC        Priv   L  .F.  genreport
+_MAC        (hid)  L  .F.
+_MENUDESIGNERPriv   C  ""  genreport
+_MENUDESIGNER(hid)  C  ""
+_MLINE      Priv   N  0           (         0.00000000)  genreport
+_MLINE      (hid)  N  0           (         0.00000000)
+_OBJECTBROWSERPriv   C  "C:\PROGRAM FILES\MICROSOFT VISUAL FOXPRO 9\OB
+                      JECTBROWSER.APP"  genreport
+_OBJECTBROWSER(hid)  C  "C:\PROGRAM FILES\MICROSOFT VISUAL FOXPRO 9\OB
+                      JECTBROWSER.APP"
+_PADVANCE   Priv   C  "FORMFEED"  genreport
+_PADVANCE   (hid)  C  "FORMFEED"
+_PAGENO     Priv   N  2           (         2.00000000)  genreport
+_PAGENO     (hid)  N  1           (         1.00000000)
+_PAGETOTAL  Priv   N  0           (         0.00000000)  genreport
+_PAGETOTAL  (hid)  N  0           (         0.00000000)
+_PBPAGE     Priv   N  1           (         1.00000000)  genreport
+_PBPAGE     (hid)  N  1           (         1.00000000)
+_PCOLNO     Priv   N  22          (        22.00000000)  genreport
+_PCOLNO     (hid)  N  22          (        22.00000000)
+_PCOPIES    Priv   N  1           (         1.00000000)  genreport
+_PCOPIES    (hid)  N  1           (         1.00000000)
+_PDRIVER    Priv   C  ""  genreport
+_PDRIVER    (hid)  C  ""
+_PDSETUP    Priv   C  ""  genreport
+_PDSETUP    (hid)  C  ""
+_PECODE     Priv   C  ""  genreport
+_PECODE     (hid)  C  ""
+_PEJECT     Priv   C  "NONE"  genreport
+_PEJECT     (hid)  C  "NONE"
+_PEPAGE     Priv   N  32767       (     32767.00000000)  genreport
+_PEPAGE     (hid)  N  32767       (     32767.00000000)
+_PLENGTH    Priv   N  66          (        66.00000000)  genreport
+_PLENGTH    (hid)  N  66          (        66.00000000)
+_PLINENO    Priv   N  3           (         3.00000000)  genreport
+_PLINENO    (hid)  N  0           (         0.00000000)
+_PLOFFSET   Priv   N  0           (         0.00000000)  genreport
+_PLOFFSET   (hid)  N  0           (         0.00000000)
+_PPITCH     Priv   C  "DEFAULT"  genreport
+_PPITCH     (hid)  C  "DEFAULT"
+_PQUALITY   Priv   L  .F.  genreport
+_PQUALITY   (hid)  L  .F.
+_PRETEXT    Priv   C  ""  genreport
+_PRETEXT    (hid)  C  ""
+_PSCODE     Priv   C  ""  genreport
+_PSCODE     (hid)  C  ""
+_PSPACING   Priv   N  1           (         1.00000000)  genreport
+_PSPACING   (hid)  N  1           (         1.00000000)
+_PWAIT      Priv   L  .F.  genreport
+_PWAIT      (hid)  L  .F.
+_REPORTBUILDERPriv   C  "C:\PROGRAM FILES\MICROSOFT VISUAL FOXPRO 9\RE
+                      PORTBUILDER.APP"  genreport
+_REPORTBUILDER(hid)  C  "C:\PROGRAM FILES\MICROSOFT VISUAL FOXPRO 9\RE
+                      PORTBUILDER.APP"
+_REPORTOUTPUTPriv   C  "C:\PROGRAM FILES\MICROSOFT VISUAL FOXPRO 9\RE
+                      PORTOUTPUT.APP"  genreport
+_REPORTOUTPUT(hid)  C  "C:\PROGRAM FILES\MICROSOFT VISUAL FOXPRO 9\RE
+                      PORTOUTPUT.APP"
+_REPORTPREVIEWPriv   C  "C:\PROGRAM FILES\MICROSOFT VISUAL FOXPRO 9\RE
+                      PORTPREVIEW.APP"  genreport
+_REPORTPREVIEW(hid)  C  "C:\PROGRAM FILES\MICROSOFT VISUAL FOXPRO 9\RE
+                      PORTPREVIEW.APP"
+_RMARGIN    Priv   N  80          (        80.00000000)  genreport
+_RMARGIN    (hid)  N  80          (        80.00000000)
+_RUNACTIVEDOCPriv   C  ""  genreport
+_RUNACTIVEDOC(hid)  C  ""
+_SAMPLES    Priv   C  "C:\PROGRAM FILES\MICROSOFT VISUAL FOXPRO 9\SA
+                      MPLES\"  genreport
+_SAMPLES    (hid)  C  "C:\PROGRAM FILES\MICROSOFT VISUAL FOXPRO 9\SA
+                      MPLES\"
+_SCCTEXT    Priv   C  "C:\PROGRAM FILES\MICROSOFT VISUAL FOXPRO 9\SC
+                      CTEXT.PRG"  genreport
+_SCCTEXT    (hid)  C  "C:\PROGRAM FILES\MICROSOFT VISUAL FOXPRO 9\SC
+                      CTEXT.PRG"
+_SCREEN     Priv   O  FORM  genreport
+_SCREEN     (hid)  O  FORM
+_SHELL      Priv   C  ""  genreport
+_SHELL      (hid)  C  ""
+_SPELLCHK   Priv   C  ""  genreport
+_SPELLCHK   (hid)  C  ""
+_STARTUP    Priv   C  "C:\PROGRAM FILES\MICROSOFT VISUAL FOXPRO 9\TA
+                      SKPANE.APP"  genreport
+_STARTUP    (hid)  C  "C:\PROGRAM FILES\MICROSOFT VISUAL FOXPRO 9\TA
+                      SKPANE.APP"
+_TABS       Priv   C  ""  genreport
+_TABS       (hid)  C  ""
+_TALLY      Priv   N  0           (         0.00000000)  genreport
+_TALLY      (hid)  N  0           (         0.00000000)
+_TASKLIST   Priv   C  "C:\PROGRAM FILES\MICROSOFT VISUAL FOXPRO 9\TA
+                      SKLIST.APP"  genreport
+_TASKLIST   (hid)  C  "C:\PROGRAM FILES\MICROSOFT VISUAL FOXPRO 9\TA
+                      SKLIST.APP"
+_TASKPANE   Priv   C  "C:\PROGRAM FILES\MICROSOFT VISUAL FOXPRO 9\TA
+                      SKPANE.APP"  genreport
+_TASKPANE   (hid)  C  "C:\PROGRAM FILES\MICROSOFT VISUAL FOXPRO 9\TA
+                      SKPANE.APP"
+_TEXT       Priv   N  -1          (        -1.00000000)  genreport
+_TEXT       (hid)  N  -1          (        -1.00000000)
+_THROTTLE   Priv   N  0.00        (         0.00000000)  genreport
+_THROTTLE   (hid)  N  0.00        (         0.00000000)
+_TOOLBOX    Priv   C  "C:\PROGRAM FILES\MICROSOFT VISUAL FOXPRO 9\TO
+                      OLBOX.APP"  genreport
+_TOOLBOX    (hid)  C  "C:\PROGRAM FILES\MICROSOFT VISUAL FOXPRO 9\TO
+                      OLBOX.APP"
+_TOOLTIPTIMEOUTPriv   N  0           (         0.00000000)  genreport
+_TOOLTIPTIMEOUT(hid)  N  0           (         0.00000000)
+_TRANSPORT  Priv   C  ""  genreport
+_TRANSPORT  (hid)  C  ""
+_TRIGGERLEVELPriv   N  0           (         0.00000000)  genreport
+_TRIGGERLEVEL(hid)  N  0           (         0.00000000)
+_UNIX       Priv   L  .F.  genreport
+_UNIX       (hid)  L  .F.
+_VFP        Priv   O  MICROSOFT VISUAL FOXPRO APPLICATION 9.0  genreport
+_VFP        (hid)  O  MICROSOFT VISUAL FOXPRO APPLICATION 9.0
+_WINDOWS    Priv   L  .T.  genreport
+_WINDOWS    (hid)  L  .T.
+_WIZARD     Priv   C  "C:\PROGRAM FILES\MICROSOFT VISUAL FOXPRO 9\WI
+                      ZARD.APP"  genreport
+_WIZARD     (hid)  C  "C:\PROGRAM FILES\MICROSOFT VISUAL FOXPRO 9\WI
+                      ZARD.APP"
+_WRAP       Priv   L  .F.  genreport
+_WRAP       (hid)  L  .F.
+
+  174 System Variables Defined
+
+Menu and Pad Definitions
+
+    0 Menus Defined
+
+Popup Definitions
+
+    0 Popups Defined
+
+Window Definitions
+
+Name           From            To              Size
+FRMPANEMANAGER   4.000,30.400    39.600,132.000  1004372 bytes
+
+    1 Window Defined
+
+*** No table is open in current work area ***
+
+*** DISPLAY STATUS ***
+Processor is Pentium
+File search path: D:\JOKERCLASSES\FOR VFP_9\BRICKS;D:\JOKERCLASSES\FOR VFP_9\CBCOMBO;D:\JOKERCLASSES\FOR VFP_9\CTL32_CLASSES;D:\JOKERCLASSES\FOR VFP_9\DATETIMEPICKER;D:\JOKERCLASSES\FOR VFP_9\EXCEL REPORT;D:\JOKERCLASSES\FOR VFP_9\FORMSAVE;D:\JOKERCLASSES\FOR VFP_9\GUID...
+Default directory: D:\PROJECT
+Print file/device:  
+Work area   =    1
+Margin      =    0
+Decimals    =    2
+Memowidth   =   50
+Typeahead   =   20
+Blocksize   =   64
+Reprocess   =       0
+Refresh     = 7, 7.000 SECONDS
+DDE Timeout =    2000
+DDE Safety  = on
+
+Code page: 1251
+Collating sequence: Machine
+Compiler code page: 1251
+Date format: American
+Macro Hot Key = 
+UDF parameters are passed by: VALUE
+On Error:        RETURN
+Textmerge Options
+          Delimiters:  Left = <<  Right = >>
+          Show
+
+Alternate  - off    Carry      - off    Console    - off    Exact      - off    Help       - on     Near       - off    Space      - on     Unique     - off 
+ANSI       - off    Century    - off    Cursor     - on     Exclusive  - on     Intensity  - on     Null       - off    Status Bar - on  
+Asserts    - off    Clear      - on     Deleted    - off    Fields     - off    Lock       - off    Optimize   - on     Sysmenus   - on  
+Bell       - on     Color      - on     Device     - scrn   Fixed      - off    Logerrors  - on     Print      - off    Talk       - off 
+Blink      - on     Compatible - off    Echo       - off    Fullpath   - on     Mouse      - on     Readborder - off    Textmerge  - off 
+Brstatus   - off    Confirm    - off    Escape     - off    Heading    - on     Multilocks - off    Safety     - off    Title      - off
+

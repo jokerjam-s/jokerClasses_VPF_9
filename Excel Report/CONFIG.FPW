@@ -1,0 +1,5 @@
+path=report;data,help,vb_script,source
+TALK =OFF
+SYSFORMATS=ON
+CODEPAGE=1251
+COLLATE=MACHIN

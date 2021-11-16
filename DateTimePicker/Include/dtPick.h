@@ -1,0 +1,31 @@
+#define	SCROLL_BAR				 0
+#define	DESCTOP					 1
+#define	CAPTION_ACTIVE_W		 2
+#define	CAPTION_INACTIVE_W	 3
+#define	MENU_BKG					 4
+#define	WINDOW_BKG				 5
+#define	WINDOW_FRAME			 6
+#define	TEXT_MENU				 7
+#define	TEXT_WINDOW				 8
+#define	TEXT_CAPTION			 9
+#define	BORDER_ACTIVE_W		10
+#define	BORDER_INACTIVE_W		11
+#define	MDI_PARENT_BKG			12
+#define	HIGHLIGHT_BKG			13
+#define	HIGHLIGHT_FORE			14
+#define	BUTTON_FACE				15
+#define	BUTTON_SHADING			16
+#define	TEXT_DISABLED			17
+#define	BUTTON_TEXT				18
+
+#define	MODE_DAY		0
+#define	MODE_MONTH	1
+#define	MODE_YEAR	2
+#define	MODE_YEARS	3
+
+#define	BT_UP		5
+#define	BT_DN		24
+#define	BT_LEFT	19
+#define	BT_RIGHT 4
+#define	BT_PGUP	18
+#define	BT_PGDN	3

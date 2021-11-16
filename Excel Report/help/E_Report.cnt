@@ -1,0 +1,108 @@
+:TITLE Excel Report 2.7 (EReport)
+:BASE E_Report.hlp
+1 Назначение=Назначение@E_Report.hlp
+1 Ограничения=Ограничения@E_Report.hlp
+1 Использование=Использование@E_Report.hlp
+1 Обратная связь=Обратнаясвязь@E_Report.hlp
+1 Что нового ?
+2 Версия 2.7=Версия2.7@E_Report.hlp
+2 Версия 2.6=Версия2.6@E_Report.hlp
+2 Версия 2.5=Версия2.5@E_Report.hlp
+2 Версия 2.4=Версия2.4@E_Report.hlp
+2 Версия 2.3=Версия2.3@E_Report.hlp
+2 Версия 2.2=Версия2.2@E_Report.hlp
+2 Версия 2.1=Версия2.1@E_Report.hlp
+2 Версия 2.0=Версия2.0@E_Report.hlp
+1 Версия 1.2=Версия1.2@E_Report.hlp
+1 Описание
+2 Параметры создания отчета=Параметрызапуска@E_Report.hlp
+2 Создание композитных отчетов=Созданиекомпозитныхотчетов@E_Report.hlp
+2 Перехват и обработка событий Excel=ПерехватиобработкасобытийE@E_Report.hlp
+2 Колонтитулы=Newitem@E_Report.hlp
+2 Шаблон отчета
+3 Структура шаблона=Структурашаблона@E_Report.hlp
+3 PgHead -Заголовок страницы=PgHead-Заголовокстраницы@E_Report.hlp
+3 Group -Полоса группы=Group-Полосагруппы@E_Report.hlp
+3 Detail -полоса данных отчета=Detal-полосаданныхотчета@E_Report.hlp
+3 Вспомогательные методы для работы с шаблоном=Вспомогательныеметодыдляраб@E_Report.hlp
+2 Методы
+3 Add_Chart=Add_Chart@E_Report.hlp
+3 Add_Module=Add_Module@E_Report.hlp
+3 Add_Outline=Add_Outline@E_Report.hlp
+3 Auto_Fit=Auto_Fit@E_Report.hlp
+3 AutoFilter=AutoFilter@E_Report.hlp
+3 AutoRun=AutoRun@E_Report.hlp
+3 Clear_group=Clear_group@E_Report.hlp
+3 Fit_Column=Fit_Column@E_Report.hlp
+3 Hide_Column=Hide_Column@E_Report.hlp
+3 Make_report=Make_report@E_Report.hlp
+3 Multi_Column=Multi_Column@E_Report.hlp
+3 Open_File=Open_File@E_Report.hlp
+3 Print_Sheet=Print_Sheet@E_Report.hlp
+3 Protect=Protect@E_Report.hlp
+3 Set_Column_Picture=Set_Column_Picture@E_Report.hlp
+3 Show_report=Show_report@E_Report.hlp
+3 Sort=Sort@E_Report.hlp
+2 Свойства
+3 Composit_On_One_Sheet=Composit_On_One_Sheet@E_Report.hlp
+3 Destination=Destination@E_Report.hlp
+3 Error_Code=Error_Code@E_Report.hlp
+3 Error_Description=Error_Description@E_Report.hlp
+3 Error_Method=Error_Method@E_Report.hlp
+3 FullName=FullName@E_Report.hlp
+3 IsExcelDemo=IsExcelDemo@E_Report.hlp
+3 No_SubTotal=No_SubTotal@E_Report.hlp
+3 NoHide=NoHide@E_Report.hlp
+3 NoPageSetup=NoPageSetup@E_Report.hlp
+3 NoShowReport=NoShowReport@E_Report.hlp
+3 OnEvent=OnEvent@E_Report.hlp
+3 Scale=Scale@E_Report.hlp
+3 TotalNewPage=TotalNewPage@E_Report.hlp
+3 Use_Array=Use_Array@E_Report.hlp
+3 Xl_App=XL_APP@E_Report.hlp
+3 XTab_Class=XTab_Class@E_Report.hlp
+2 События
+3 On_Get_Picture_File=On_Get_Picture_File@E_Report.hlp
+3 Create_Thermometer=Create_Thermometer@E_Report.hlp
+3 Update_Thermometer=Update_Thermometer@E_Report.hlp
+3 Close_Thermometer=Close_Thermometer@E_Report.hlp
+3 On_Message=On_Message@E_Report.hlp
+3 On_Warning=On_Warning@E_Report.hlp
+2 Переменные для управления выводом сообщений
+3 lERNoShowMessage=LERNoShowMessage@E_Report.hlp
+3 lERNoShowWarning=LERNoShowWarning@E_Report.hlp
+3 lerNoThermom=LerNoThermom@E_Report.hlp
+2 Создание отчета без использования шаблона
+3 Создание отчета=Созданиеотчета@E_Report.hlp
+3 Методы
+4 Addd_Column=Addd_Column@E_Report.hlp
+4 Add_Group=Add_group@E_Report.hlp
+4 Add_Value=Add_value@E_Report.hlp
+4 Add_Picture=Add_picture@E_Report.hlp
+3 Свойства
+4 Pattern=Pattern@E_Report.hlp
+2 Перекрестные отеты (cross tab report)
+3 Создание перекрестных отчетов=Созданиеперекрестныхотчетов@E_Report.hlp
+3 Генератор перекрестных таблиц=Генераторперекрестныхтаблиц@E_Report.hlp
+3 Класс генератора перекрестных таблиц
+4 Параметры создания=Параметрысоздания@E_Report.hlp
+4 Методы
+5 Gen_XTab=Gen_XTab@E_Report.hlp
+4 Свойства
+5 cCl_dbf=CCl_dbf@E_Report.hlp
+5 cColumnField=CColumnField@E_Report.hlp
+5 cEr_dbf=CEr_dbf@E_Report.hlp
+5 cErrorDescription=CErrorDescription@E_Report.hlp
+5 cKeyFieldList=CKeyFieldList@E_Report.hlp
+5 cSource_Table=CSource_Table@E_Report.hlp
+5 lError=LError@E_Report.hlp
+5 lErXtIsNull=LErXtIsNull@E_Report.hlp
+5 lNoCursor=LNoCursor2@E_Report.hlp
+5 lShowMessage=LShowMessage@E_Report.hlp
+5 lShowWarning=LShowWarning@E_Report.hlp
+5 nColumnSort=NColumnSort@E_Report.hlp
+5 nRowCalc=NRowCalc@E_Report.hlp
+5 nTime_of_the_work=NTime_of_the_work@E_Report.hlp
+4 События
+5 On_Warning=On_Warning2@E_Report.hlp
+5 On_Message=On_Message2@E_Report.hlp

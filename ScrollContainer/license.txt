@@ -1,0 +1,27 @@
+ScrollContainer class for Microsoft Visual FoxPro
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+License for use and distribution
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+This license agreement covers all existing versions of ScrollContainer class from now on referred below as "ScrollContainer" unless otherwise specified.
+
+1. All rights not expressly granted here are reserved by ARG-Software Design Lab.
+
+2. All copyrights to "ScrollContainer" are exclusively owned by the author - ARG-Software Design Lab.
+
+3. ARG-Software Design Lab. grants a free license for use of this software ("ScrollContainer"). This software may be distributed freely, for no charge. Please ensure that this document accompanies the software.
+
+4. "SCROLLCONTAINER" IS DISTRIBUTED "AS IS".  NO WARRANTY OF ANY KIND IS EXPRESSED OR IMPLIED. YOU USE "SCROLLCONTAINER" AT YOUR OWN RISK. THE AUTHOR WILL NOT BE LIABLE FOR DATA LOSS, DAMAGES, LOSS OF PROFITS OR ANY OTHER KIND OF LOSS WHILE USING OR MISUSING THIS SOFTWARE.
+
+5. The terms of this license, as well as the "ScrollContainer" interface design are subjects of changes in future versions of "ScrollContainer".
+
+6. "ScrollContainer" may come packaged with additional ARG-Software Design Lab. products or third-party products. Please review the licensing terms of these individual products. 
+
+7. Using "ScrollContainer" signifies acceptance of these terms and conditions of the license.
+
+8. If you do not agree with the terms of this license or if the terms of this license contradict with your local laws, you must remove "ScrollContainer" files from your storage devices and cease to use the product.
+
+			Thank you for using "ScrollContainer".
+			ARG-Software Design Lab.
+			Alex Grigorjev
